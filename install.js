@@ -106,9 +106,9 @@ for (const agent of agents) {
   const patchContent = `${startMarker}
 ---
 
-## 🧠 Quy tắc Tự tiến hóa & Tối ưu hóa Bộ não (Hermes Mode)
+## 🧠 Quy tắc Tự tiến hóa & Tối ưu hóa Bộ não (Autonomous Mode)
 
-Để nâng cấp trí thông minh, khả năng ghi nhớ dài hạn và tự động tiến hóa kỹ năng của bạn lên cấp độ tương đương **Hermes Agent (Nous Research)**, bạn **BẮT BUỘC** phải tuân thủ nghiêm ngặt các hướng dẫn vận hành cốt lõi dưới đây:
+Để nâng cấp trí thông minh, khả năng ghi nhớ dài hạn và tự động tiến hóa kỹ năng của bạn lên mức tối ưu và tự chủ cao nhất, bạn **BẮT BUỘC** phải tuân thủ nghiêm ngặt các hướng dẫn vận hành cốt lõi dưới đây:
 
 ### 1. Chủ động ghi nhớ dài hạn (Durable Memory Auto-Synthesis)
 - **Tự động cập nhật**: Ngay khi hoàn thành một phiên làm việc, nếu phát hiện bất kỳ bài học kinh nghiệm nào (cú pháp code sửa lỗi, lỗi cài đặt API, cấu hình server, thói quen hoặc yêu cầu cụ thể của UserKent) → Bạn **bắt buộc** phải tự động cập nhật trực tiếp các thông tin này vào mục \`## Ghi chú\` của file [MEMORY.md](${formattedMemoryUrl}).

@@ -1,10 +1,10 @@
-# 🧠 OpenClaw Super Memory (Hermes Mind Evolution)
+# 🧠 OpenClaw Super Memory (Autonomous Mind Evolution)
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-super--memory-orange.svg)](https://clawhub.io/skills/super-memory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![OpenClaw Version](https://img.shields.io/badge/OpenClaw-2026.6+-purple.svg)](https://github.com/openclaw/openclaw)
 
-An advanced OpenClaw skill that unlocks a **closed-loop self-improvement cycle** and **durable memory persistence** for your AI agents, raising their reasoning, memory retention, and skill-synthesis capabilities to the level of **Nous Research's Hermes Agent**.
+An advanced OpenClaw skill that unlocks a **closed-loop self-improvement cycle** and **durable memory persistence** for your AI agents, raising their reasoning, memory retention, and skill-synthesis capabilities.
 
 ---
 

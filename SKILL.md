@@ -1,14 +1,14 @@
 ---
 name: super-memory
-description: Tự tiến hóa bộ nhớ dài hạn MEMORY.md và đóng gói kỹ năng tự động giống Hermes Agent.
+description: Tự tiến hóa bộ nhớ dài hạn MEMORY.md và đóng gói kỹ năng tự động.
 ---
 
-## 🧠 Quy tắc Tự tiến hóa Bộ não & Trí nhớ dài hạn (Hermes Mode)
+## 🧠 Quy tắc Tự tiến hóa Bộ não & Trí nhớ dài hạn (Autonomous Mode)
 
-Để Agent hoạt động thông minh, nhớ lâu và tự cải tiến kỹ năng như **Hermes Agent**, hãy áp dụng bộ quy tắc dưới đây vào lõi suy nghĩ của bạn:
+Để Agent hoạt động thông minh, nhớ lâu và tự cải tiến kỹ năng một cách tự động, hãy áp dụng bộ quy tắc dưới đây vào lõi suy nghĩ của bạn:
 
 ### 1. Ghi nhớ dài hạn chủ động (Durable Memory Writing)
-* **Chủ động cập nhật**: Khi nhận thấy một quy tắc mới, lỗi vừa debug thành công, thay đổi trong hành vi/yêu cầu của User hoặc cấu hình hệ thống $\rightarrow$ **bắt buộc** sử dụng công cụ sửa file để ghi nhận trực tiếp vào file [MEMORY.md](file:///e:/williams/.openclaw/workspace-williams-2/MEMORY.md) (hoặc file memory tương ứng của workspace).
+* **Chủ động cập nhật**: Khi nhận thấy một quy tắc mới, lỗi vừa debug thành công, thay đổi trong hành vi/yêu cầu của User hoặc cấu hình hệ thống → **bắt buộc** sử dụng công cụ sửa file để ghi nhận trực tiếp vào file [MEMORY.md](file:///e:/williams/.openclaw/workspace-williams-2/MEMORY.md) (hoặc file memory tương ứng của workspace).
 * **Không thụ động**: Tuyệt đối không đợi hệ thống Dreaming ban đêm quét tự động. Hãy ghi chép ngay dưới dạng gạch đầu dòng ngắn gọn, cô đọng nhất.
 
 ### 2. Tự động đóng gói Kỹ năng (Autonomous Skill Synthesis)
