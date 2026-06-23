@@ -99,8 +99,12 @@ for (const agent of agents) {
   }
 
   // Format file paths using the file:/// scheme and forward slashes for cross-platform links
-  const formattedMemoryUrl = `file:///${memoryMdPath.replace(/\\/g, '/')}`;
-  const formattedToolsUrl = `file:///${toolsMdPath.replace(/\\/g, '/')}`;
+  const formatFileUrl = (filePath) => {
+    const normalized = filePath.replace(/\\/g, '/');
+    return normalized.startsWith('/') ? `file://${normalized}` : `file:///${normalized}`;
+  };
+  const formattedMemoryUrl = formatFileUrl(memoryMdPath);
+  const formattedToolsUrl = formatFileUrl(toolsMdPath);
 
   // Patch Content
   const patchContent = `${startMarker}
